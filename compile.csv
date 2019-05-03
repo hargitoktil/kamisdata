@@ -1,0 +1,97 @@
+NO,NIP,Pegawai,emailkemenkeu,Jabatan,Lokasi,Kategori_Perangkat,Hostname,Sistem_Operasi,Merk,Tipe,Processor,RAM,HDD,Join_Domain,Status,User_Admin_PC,Pass_Admin_PC,MAC_Addess
+1,19701218 199603 2 001,Heni Kartikawati,henikartikawati ,Kepala Pusat,Ruang Kapus,PC Unit,PP701,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,19691120 199703 1 001,"Parwanta,S.E., M.Si.",parwanta ,Kabag TU,Lantai II TU,PC Unit,PP7401,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,19860525 200901 1 005,"Rio Suareski, Spd",rio.suareski,Kasubbag TUKH,Lantai II TU,PC Unit,PP74301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,19881204 201012 1 005,Yudha Sasangka,yudha.sasangka ,Pelaksana,Lantai II TU,PC Unit,PP7430101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,19861106 201502 2 004,Astrid Nindia,astrid.nindia ,Pelaksana,Lantai II Sekretaris Kapus,PC Unit,PP7430102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,19710709 199403 2 002,Juillit Haisa,juillithaisa ,Pelaksana,Lantai II TU,PC Unit,PP7430103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,19890117 201012 2 002,Ika Puspita Karyati,ika.karyati ,Pelaksana,Lantai II TU,PC Unit,PP7430104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,19880205 200812 1 003,Fajar Prasetyo Yuwono,fajarprasetyo,Pelaksana,Lantai II TU,PC Unit,PP7430105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,2.00E+17,Muthia Permatasari,muthia.permatasari,OJT,Lantai II TU,PC Unit,PP7430106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,NA,Bilqis Syahidah Nurul Ichsani ,"bilqis.nurul 	",OJT,Lantai II TU,Laptop,PP7430107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,NA,Rizky Septiani ,rizky.septiani,PPNPM,Lantai II Sekretaris Kapus,PC Unit,PP7430108,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,NA,Lina Karlina,NA,PPNPM,Lantai I Lobby Depan,PC Unit,PP7430109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,19620607 198401 1 001,"Tresno Santosa, SSos.",tresnosantosa ,Kasubbag RTPA,Lantai II TU,PC Unit,PP74201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,19690516 199403 1 002,Holid,holidstan ,Pelaksana,Lantai II TU,PC Unit,PP7420101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,19881221 200912 1 002,Achmad Mujtaba,achmad.mujtaba,Pelaksana,Lantai II TU,PC Unit,PP7420102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,19680710 199403 1 001,Santoso,santosoNAbppk,Pelaksana,Lantai II TU,PC Unit,PP7420103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,19890411 201012 1 006,Imam Ariffudin,imam.ariffudin,Pelaksana,Lantai II TU,PC Unit,PP7420104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,19851029 201012 1 004,Johan Sagitta,johan.sagitta ,Pelaksana,Lantai II TU,PC Unit,PP7420105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,19870823 200812 1 002,M. Agus Hikmawansyah,agus.hikmawansyah,Pelaksana,Lantai II TU,PC Unit,PP7420106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,19850401 201012 2 005,Murtafiatun,murtafiatun ,Kasubbag Renkeu,Lantai II TU,PC Unit,PP74101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,19920724 201411 2 001,Romika Enny Sulistyowati,romika.enny ,Pelaksana,Lantai II TU,PC Unit,PP7410101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,19890912 201012 1 001,Mohammad Ilham Syauqi,mohammad.ilham ,Pelaksana,Lantai II TU,PC Unit,PP7410102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,19670609 199803 1 001,Karno,karno ,Pelaksana,Lantai II TU,PC Unit,PP7410103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,19880103 200912 1 005,Arief Hardo Saputro,arief.hardo,Pelaksana,Lantai II TU,PC Unit,PP7410104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,19700805 199403 1 002,Subagya,Subagya ,Pelaksana,Lantai II TU,PC Unit,PP7410105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,19861109 200710 1 001,Danu Majid,danumajid ,Pelaksana,Lantai II TU,PC Unit,PP7410106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,19840321 200412 1 001,Wiwit Azananto,wiwitazananto ,Pelaksana,Lantai II TU,PC Unit,PP7410107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,19650126 199103 1 001,"Dr. Pandu Patriadi, MM, MH",pandup,Kabid Renbang,Lantai II Renbang,PC Unit,PP7101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,19750503 199511 1 001,Lestari Dwi Pribadi,lestaridwip ,Kasubbid Program,Lantai II Renbang,PC Unit,PP71201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,19930313 201411 1 001,Yohanes Pangaribuan,yohanes.pangaribuan,Pelaksana,Lantai II Renbang,PC Unit,PP7120101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,19850305 200901 2 008,Shera Betania,sherabetania ,Pelaksana,Lantai II Renbang,PC Unit,PP7120102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,19910416 201210 1 003,Fitri Anggita,fitri.anggita ,Pelaksana,Lantai II Renbang,PC Unit,PP7120103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,19950611 201801 2 004,Astrid Carera Imanuela,astrid.imanuela ,Pelaksana,Lantai II Renbang,PC Unit,PP7120104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,19880229 201012 1 004,Najjahul Imtihan,najjahul.imtihan ,Pelaksana,Lantai II Renbang,PC Unit,PP7120105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,NA,Putri Rezki,NA,PKL,Lantai II Renbang,PC Unit,PP7120106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,19841114 200901 2 006,"Nova Mardianti, S.E., M.A., M.Sc.",novamardianti ,Kasubbid Kurikulum,Lantai II Renbang,PC Unit,PP71301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,19850821 200701 1 001,Krisna Adityasmoro,kadityasmoro ,Pelaksana,Lantai II Renbang,PC Unit,PP7130101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,19840817 200701 1 001,Agusta Rizar Binadja,arizarbinadja ,Pelaksana,Lantai II Renbang,PC Unit,PP7130102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,19910907 201310 1 001,Fakhrudin,fakhrudin91 ,Pelaksana,Lantai II Renbang,PC Unit,PP7130103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,19891014 201012 2 002,Irawati Nur Utami,irawati.nur ,Pelaksana,Lantai II Renbang,PC Unit,PP7130104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,19940502 201801 2 003,Fesha Mayvia Eka Putrie,feshamayvia ,Pelaksana,Lantai II Renbang,PC Unit,PP7130105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,19840706 201012 1 005,Mohamad Efendi,mohamad.efendi ,Pelaksana,Lantai II Renbang,PC Unit,PP7130106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,19840618 200901 2 007,Wena Liza,NA,Kasubbid TP,Lantai II Renbang,PC Unit,PP71101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,19830509 200412 1 002,Rido Parulian Panjaitan,ridoparulian ,Pelaksana,Lantai II Renbang,PC Unit,PP7110101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,19880527 200912 1 006,Eko Wasito Adi,eko.wasito ,Pelaksana,Lantai II Renbang,PC Unit,PP7110102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,19630826 199403 2 001,Nuraini,nurainiNAbppk,Pelaksana,Lantai II Renbang,PC Unit,PP7110103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,19860709 201012 2 007,Siti Rizkiaty Fatimah Ritonga,siti.ritonga ,Pelaksana,Lantai II Renbang,PC Unit,PP7110104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,19910531 201310 1 002,Abdul Latif,abdullatif ,Pelaksana,Lantai II Renbang,PC Unit,PP7110105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,19760120 199903 1 002,Wawan Ismawandi,wanismawandi ,Kabid Penyelenggaraan,Lantai III Penyelenggaraan,PC Unit,PP7201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,19841223 200701 2 001,"Lili Mutiary, S.E., M.A., M.Sc.",lilimutiary ,Kasubbid Penyelenggaraan I,Lantai III Penyelenggaraan,PC Unit,PP72101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,19670503 199308 1 001,Suharjono,suharjono ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7210101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,19760103 199602 2 001,Siti Rohmah,siti_rohmah,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7210102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,19690111 199803 1 002,Cahyo,cahyobppk,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7210103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,19851006 201012 1 003,Imam Nalundra Rachmanto,imam.rachmanto,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7210104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,19890927 201012 1 003,Putu Surya Atmaja,surya.atmaja ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7210105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,19880625 200710 2 001,Amelia Astuti,amelia.astuti ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7210106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,19830114 200602 1 001,"M. Taufik Hidayat, S.S.T., Ak.",taufikh,Kasubbid Penyelenggaraan II,Lantai III Penyelenggaraan,PC Unit,PP72201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,19890222 201012 1 002,Alfrenius Lumbantobing,alfrenius ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7220101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,19890512 201502 1 003,Fazar Kusumah Supriyadi,fazar.kusumah,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7220102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,19881210 201012 1 003,Syaiful Ulum Riswandi,syaiful.ulum ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7220103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,19850111 201012 1 003,Hascarya Adi Prastawa,hascarya.prastawa ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7220104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,19880406 200812 2 001,Aprilla Mulia Dermawati,aprilla.mulia ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7220105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,19901105 201502 2 005,Novi Indah Setiowati,novi.indah ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7220106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,19770130 199703 1 004,Arif Mulyono,arifmulyono ,Pelaksana,Lantai III Penyelenggaraan,PC Unit,PP7220107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,2.00E+17,Dina Khairunnisa,dinakhaisa ,OJT,Lantai III Penyelenggaraan,PC Unit,PP7220108,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,NA,Diar Rachwati Yuni Astanti ,diar.rachwati ,PPNPM,Lantai III Penyelenggaraan,PC Unit,PP7220109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,NA,Nunung Winarsih,nunung.winarsih ,PPNPM,Lantai III Penyelenggaraan,PC Unit,PP7220110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,19680304 199403 2 002,"Ririn Mardiyani, S.E., M.Si.",mardiyani,Kabid Evalapkin,Lantai III Evalap,PC Unit,PP7301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,19721227 199903 1 002,"Hendrizal, S.Kom.",hendrizal,Kasubbid ED,Lantai III Evalap,PC Unit,PP73101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,19831114 201012 2 001,Ita Dwi Haryanti,ita.haryanti ,Pelaksana,Lantai III Evalap,PC Unit,PP7310101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,19890721 201012 2 002,Shinta Damayanti,shinta.damayanti ,Pelaksana,Lantai III Evalap,PC Unit,PP7310102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,19850425 201012 2 003,Rheni Maryani,rheni,Pelaksana,Lantai III Evalap,PC Unit,PP7310103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,19870827 200912 1 002,Gde Made Dwi Praditya Rahadi,"gde.rahadi 	",Pelaksana,Lantai III Evalap,PC Unit,PP7310104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,19840203 200602 1 002,Dharmindra Adhi Nugroho,dharmindra_an,Pelaksana,Lantai III Evalap,PC Unit,PP7310105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75,19751102 199603 1 001,"Haries Sutanto, S.E.",hariessutanto,Kasubbid PHD,Lantai III Evalap,PC Unit,PP73201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,19870305 200912 1 003,Martono Heri Prayogo,martono.hp ,Pelaksana,Lantai III Evalap,PC Unit,PP7320101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,19860114 200701 1 002,Joko Sustiyo,jokosustiyo,Pelaksana,Lantai III Evalap,PC Unit,PP7320102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,19860913 200812 1 002,Herry Samudro,samudro,Pelaksana,Lantai III Evalap,PC Unit,PP7320103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,19710914 199903 2 007,Srie Mutmaenah Bugiastuty Widyaningsih,bugyastuti,Pelaksana,Lantai III Evalap,PC Unit,PP7320104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,19750514 199903 1 001,"Edi Basuki Rakhmad, S.Kom.",edibasuki,Kasubbid IPK,Lantai III Evalap,PC Unit,PP73301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,19830720 200901 2 008,Chairunnisa Marsh,nisa.marsh,Pelaksana,Lantai III Evalap,PC Unit,PP7330101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,19870625 200812 1 003,Anggi Ridwan Pratama,anggi.ridwan ,Pelaksana,Lantai III Evalap,PC Unit,PP7330102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,19840902 200602 1 001,Wahyudi Astono,yudi.astono ,Pelaksana,Lantai III Evalap,PC Unit,PP7330103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,19571101 198303 2 001,"Dra. Linda Ria Lumbantobing, S.Psi., MA.",lrlumbantobing,Widyaiswara Ahli Utama,Lantai V Ruang Widyaiswara,PC Unit,PP700001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,19580826 197903 1 001,"Drs. Mangasa Simatupang, MM.",mangasa.simatupang,Widyaiswara Ahli Utama,Lantai V Ruang Widyaiswara,PC Unit,PP700002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,19671116 198802 1001,"Muhtar Yahya, Ak, MSF.",muhtaryahya,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,19680810 198703 1 001,Dr. Ir. Khamami Herusantoso,khamami.herususanto ,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,19720629 199903 2 001,"Efi Dyah Indrawati, S.S., M.Pd.",efidyahindrawati,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,19700812 199103 1 001,"Agus Hekso Pramudijono, SE., MSc.",gushekso,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,19770702 199903 2 001,"Theresia Vera Yuliastanti, SST, Ak., MM.",theresiavera,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,19741006 199903 2 001,"Sri Wahyuni, SS, MSi.",swahyuni,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,19740816 199602 2 001,"Erny Arianty, S.E.",ernyarianty,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,19691226 199603 2 001,Amelia Rose,amelia.rose,Widyaiswara Muda,Lantai V Ruang Widyaiswara,PC Unit,PP700010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+94,19730901 199402 1 001,Eri Hariyanto,eri_hariyanto ,Widyaiswara Ahli Madya,Lantai V Ruang Widyaiswara,PC Unit,PP700011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,19580710 198210 1 001,Widjanarko,widjanarko,Widyaiswara Ahli Utama,Lantai V Ruang Widyaiswara,PC Unit,PP700012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,19860720 200701 1 001,Ninin Sapto Hargiyanto,sapto.hargi,Pranata Komputer Pelaksana,Lantai II TU,PC Unit,PP700013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
